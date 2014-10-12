@@ -1,0 +1,22 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+*.gz
+ez*.thrift
+*.tar.gz
+*.jar
+
+
+# Maven
+log/
+target/
+tar/
